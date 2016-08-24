@@ -1,0 +1,4 @@
+.vscode/.BROWSE.VC.DB
+*.html
+.vscode/.BROWSE.VC.DB-shm
+*.DB-wal
