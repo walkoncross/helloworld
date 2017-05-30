@@ -2,12 +2,6 @@
 *.html
 .vscode/.BROWSE.VC.DB-shm
 *.DB-wal
-*.ac
-*.am
-*.in
-*.m4
-missing
-depcomp
 config.log
 config.status
 autoscan.log

@@ -9,7 +9,7 @@ int main(int argc, char* argv[])
     printf("This message is added through github website!\n");
 
 
-    printf("Print Arguments List:\n")
+    printf("Print Arguments List:\n");
     for (int i = 0; i < argc; i++)
     {
         printf("argv[%d]:　%s\n", i, argv[i]);
