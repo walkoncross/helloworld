@@ -10,4 +10,5 @@ compiler:
  - gcc
 
 script:
- - ./configure & make
+ - ./configure
+ - make
