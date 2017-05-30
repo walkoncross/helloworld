@@ -4,7 +4,5 @@ before_install:
  - chmod +x configure
 
 compiler:
- - clang
  - gcc
 
-script: ./configure & make
