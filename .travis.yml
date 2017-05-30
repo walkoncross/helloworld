@@ -3,10 +3,8 @@ language: c
 sudo: required
 
 before_install:
+ - sudo apt-get install autoconf
  - chmod +x configure
-
-install:
- - apt-get install autoconf
 
 compiler:
  - gcc
