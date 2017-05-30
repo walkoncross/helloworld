@@ -11,3 +11,6 @@ compiler:
 
 script:
  - ./configure && make
+ 
+after_success: 
+ - chmod +x hello && ./hello
